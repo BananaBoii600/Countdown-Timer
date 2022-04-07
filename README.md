@@ -1,4 +1,6 @@
 # Countdown-Timer
+[![Python 3.6](https://img.shields.io/badge/python-3.6-blue.svg)](https://www.python.org/downloads/release/python-360/)
+
 A Simple Countdown Timer made in `python` using `tkinter` and `win10toast`
 
 **NOTE THAT THIS APP IS ONLY FOR WINDOWS BECUZ WIN10TOAST IS WINDOWS 10 ONLY!**
