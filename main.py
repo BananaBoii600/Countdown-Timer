@@ -2,7 +2,6 @@ import threading
 import time
 import tkinter as tk
 from win10toast import ToastNotifier
-from pygame import mixer
 
 class CountdownTimer:
 
